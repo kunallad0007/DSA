@@ -23,7 +23,6 @@ public class DataTypes {
         System.out.println("Double e: " + e);
         System.out.println("Double a: " + a);
 
-
     }
 
     
