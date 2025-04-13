@@ -6,12 +6,12 @@ This repository is designed to help complete beginners master Java for DSA (Data
 
 | # | Topic                     | Folder                       | Video Coming Soon |
 |---|---------------------------|------------------------------|-------------------|
-| 1 | Hello World               | `01_HelloWorld`              | ✅                |
-| 2 | Variables & Data Types    | `02_VariablesAndDataTypes`   | 🔜                |
-| 3 | Operators in Java         | `03_Operators`               | 🔜                |
-| 4 | Conditional Statements    | `04_ConditionalStatements`   | 🔜                |
-| 5 | Loops                     | `05_Loops`                   | 🔜                |
-| 6 | Arrays                    | `06_Arrays`                  | 🔜                |
+| 1 | Hello Universe               | `HelloUniverse`
+| 2 | Variables & Data Types    | `VariablesAndDataTypes`   | 🔜                |
+| 3 | Operators in Java         | `Operators`               | 🔜                |
+| 4 | Conditional Statements    | `ConditionalStatements`   | 🔜                |
+| 5 | Loops                     | `Loops`                   | 🔜                |
+| 6 | Arrays                    | `Arrays`                  | 🔜                |
 
 ## 🧑‍🏫 About Me
 
