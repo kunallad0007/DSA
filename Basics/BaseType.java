@@ -1,4 +1,4 @@
-package Basics.GetStarted;
+package Basics;
 
 public class BaseType {
     
